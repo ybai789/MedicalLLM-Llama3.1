@@ -143,7 +143,7 @@ template: llama3
 ```
 Here is an example of inference outputs from a chat with a medical LLM.
 
-![inference_example](.\images\inference_example.png)
+<img src=".\images\inference_example.png" alt="inference_example" style="zoom:67%;" />
 
 ## 4 Align medical LLM using DPO
 
