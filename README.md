@@ -1,4 +1,4 @@
-This repository outlines the method for fine-tuning and aligning a medical LLM with Llama 3.1 using LoRA and DPO.
+This repository outlines the method for fine-tuning and aligning a medical chat LLM with Llama 3.1 using LoRA and DPO.
 
 The Meta-Llama-3.1-8B-Instruct model is first fine-tuned on medical dialogue data through LoRA, followed by alignment with medical preference data using DPO.
 
